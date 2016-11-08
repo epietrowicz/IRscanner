@@ -40,6 +40,11 @@
 '
 ' www.ixxat.de
 ' support@ixxat.de
+'
+'
+'Eric Pietrowicz 
+'12/7/15
+'IR Scanner for iBED Bed Bay ID Identifier
 ' 
 
 Imports System
